@@ -17,7 +17,7 @@ PRODUCT_MODEL := Aquaris X2
 PRODUCT_GMS_CLIENTID_BASE := android-bq
 TARGET_VENDOR := bq
 TARGET_VENDOR_PRODUCT_NAME := zangya_sprout
-PRODUCT_BUILD_PROP_OVERRIDES += PRIVATE_BUILD_DESC="zangya_bq-user 9 PKQ1.190118.001 919 release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRIVATE_BUILD_DESC="zangya_bq-user 9 PKQ1.190723.001 1045 release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := bq/zangya_bq/zangya_sprout:9/PKQ1.190118.001/919:user/release-keys
+BUILD_FINGERPRINT := bq/zangya_bq/zangya_sprout:9/PKQ1.190723.001/1045:user/release-keys
